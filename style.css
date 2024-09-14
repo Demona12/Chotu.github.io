@@ -1,0 +1,86 @@
+.main-heading{
+    text-align: center;
+    font-size: 25px;
+}
+.c-head{
+    color: red;
+}
+.Modify{
+    height: 40px;
+    width: 138px;
+    border-radius: 25px;
+    background-color: aqua;
+}
+.nextpage{
+    text-align: center;
+}
+.color1{
+    color:brown
+    
+}
+.color2{
+    color:aquamarine
+}
+
+.color3{
+    color:red
+}
+
+.color4{
+    color:purple
+}
+
+.color5{
+    color:greenyellow
+}
+.color6{
+    color:crimson
+}
+.head{
+    text-decoration: underline;
+    color:blue
+}
+.next1page{
+    text-align: center;
+}
+.Modify1{
+    text-decoration: line-through
+    
+}
+.text1{
+    font-size: 25px;
+    color:fuchsia
+}
+.imgone{
+        height: 300px;
+        width: 300px;
+}
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+  
+.rounded-image {
+    border-radius: 50%;  
+    text-align: center;
+  }
+
+  .font1{
+    color: orangered;
+    text-align: center;
+  }
